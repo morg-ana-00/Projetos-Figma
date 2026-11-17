@@ -13,67 +13,62 @@ Os projetos foram criados como exercícios de aprendizagem, com foco na prática
 
 ### Projeto 01
 
-![image al](https://github.com/morg-ana-00/Projetos-Figma/blob/02b409df54fc10ee60d8e64f0403c8fa37226f49/Captura%20de%20tela%202026-11-16%20222245.png)
+![image alt](https://github.com/morg-ana-00/Projetos-Figma/blob/02b409df54fc10ee60d8e64f0403c8fa37226f49/Captura%20de%20tela%202026-11-16%20222245.png)
 
 ---
 
 ### Projeto 02
 
-![Preview do Projeto 02](projeto02/preview.png)
+![image_alt](https://github.com/morg-ana-00/Projetos-Figma/blob/3ad4db750621fadfc81acdc3e6c3f77f90146da8/Captura%20de%20tela%202026-11-16%20222104.png)
 
 ---
 
 ### Projeto 03
 
-![Preview do Projeto 03](projeto03/preview.png)
+![image_alt](https://github.com/morg-ana-00/Projetos-Figma/blob/3ad4db750621fadfc81acdc3e6c3f77f90146da8/Captura%20de%20tela%202026-11-16%20222104.png)
 
 ---
 
 ### Projeto 04
 
-![Preview do Projeto 04](projeto04/preview.png)
+![image_alt](https://github.com/morg-ana-00/Projetos-Figma/blob/3ad4db750621fadfc81acdc3e6c3f77f90146da8/Captura%20de%20tela%202026-11-16%20222104.png)
 
 ---
 
 ### Projeto 05
 
-![Preview do Projeto 05](projeto05/preview.png)
+![image_alt](https://github.com/morg-ana-00/Projetos-Figma/blob/3ad4db750621fadfc81acdc3e6c3f77f90146da8/Captura%20de%20tela%202026-11-16%20222104.png)
 
 ---
 
 ### Projeto 06
 
-![Preview do Projeto 06](projeto06/preview.png)
+![image_alt](https://github.com/morg-ana-00/Projetos-Figma/blob/3ad4db750621fadfc81acdc3e6c3f77f90146da8/Captura%20de%20tela%202026-11-16%20222104.png)
 
 ---
 
 ### Projeto 07
 
-![Preview do Projeto 07](projeto07/preview.png)
+![image_alt](https://github.com/morg-ana-00/Projetos-Figma/blob/3ad4db750621fadfc81acdc3e6c3f77f90146da8/Captura%20de%20tela%202026-11-16%20222104.png)
 
 ---
 
 ### Projeto 08
 
-![Preview do Projeto 08](projeto08/preview.png)
+![image_alt](https://github.com/morg-ana-00/Projetos-Figma/blob/3ad4db750621fadfc81acdc3e6c3f77f90146da8/Captura%20de%20tela%202026-11-16%20222104.png)
 
 ---
 
 ### Projeto 09
 
-![Preview do Projeto 09](projeto09/preview.png)
+![image_alt](https://github.com/morg-ana-00/Projetos-Figma/blob/3ad4db750621fadfc81acdc3e6c3f77f90146da8/Captura%20de%20tela%202026-11-16%20222104.png)
 
 ---
 
 ### Projeto 10
 
-![Preview do Projeto 10](projeto10/preview.png)
+![image_alt](https://github.com/morg-ana-00/Projetos-Figma/blob/3ad4db750621fadfc81acdc3e6c3f77f90146da8/Captura%20de%20tela%202026-11-16%20222104.png)
 
----
-
-### Projeto 11
-
-![Preview do Projeto 11](projeto11/preview.png)
 
 ## Objetivo
 
