@@ -51,7 +51,7 @@ Os projetos foram criados como exercícios de aprendizagem, com foco na prática
 
 ### Projeto 07
 
-![image_alt](https://github.com/morg-ana-00/Projetos-Figma/blob/3ad4db750621fadfc81acdc3e6c3f77f90146da8/Captura%20de%20tela%202026-11-16%20222104.png)
+![image_alt](https://github.com/morg-ana-00/Projetos-Figma/blob/67c33c7db6e0e22287cfd30d6e7889206bf46c4e/Captura%20de%20tela%202026-11-16%20224530.png)
 
 ---
 
